@@ -1,0 +1,98 @@
+{
+    "crimpCert": 0.7220908539713633,
+    "crimpCount": 2,
+    "crimpHolds": [
+        {
+            "cert": 0.6101860920666013,
+            "crimpCount": 623,
+            "data": {
+                "_data": {},
+                "_item_cache": {},
+                "is_copy": null
+            },
+            "jugCount": 0,
+            "miniJugCount": 0,
+            "pinchCount": 94,
+            "pocketCount": 0,
+            "slopeCount": 0,
+            "type": "Crimp"
+        },
+        {
+            "cert": 0.11190476190476191,
+            "crimpCount": 94,
+            "data": {
+                "_data": {},
+                "_item_cache": {},
+                "is_copy": null
+            },
+            "jugCount": 79,
+            "miniJugCount": 62,
+            "pinchCount": 0,
+            "pocketCount": 73,
+            "slopeCount": 15,
+            "type": "Crimp"
+        }
+    ],
+    "jugCert": 0,
+    "jugCount": 0,
+    "jugHolds": [],
+    "miniJugCert": 0.20321931589537223,
+    "miniJugCount": 1,
+    "miniJugHolds": [
+        {
+            "cert": 0.20321931589537223,
+            "crimpCount": 384,
+            "data": {
+                "_data": {},
+                "_item_cache": {},
+                "is_copy": null
+            },
+            "jugCount": 0,
+            "miniJugCount": 404,
+            "pinchCount": 45,
+            "pocketCount": 224,
+            "slopeCount": 155,
+            "type": "Mini Jug"
+        }
+    ],
+    "pinchCert": 0,
+    "pinchCount": 0,
+    "pinchHolds": [],
+    "pocketCert": 1.1127358393196267,
+    "pocketCount": 2,
+    "pocketHolds": [
+        {
+            "cert": 0.8655767484105359,
+            "crimpCount": 83,
+            "data": {
+                "_data": {},
+                "_item_cache": {},
+                "is_copy": null
+            },
+            "jugCount": 0,
+            "miniJugCount": 0,
+            "pinchCount": 0,
+            "pocketCount": 953,
+            "slopeCount": 0,
+            "type": "Pocket"
+        },
+        {
+            "cert": 0.2471590909090909,
+            "crimpCount": 64,
+            "data": {
+                "_data": {},
+                "_item_cache": {},
+                "is_copy": null
+            },
+            "jugCount": 0,
+            "miniJugCount": 0,
+            "pinchCount": 0,
+            "pocketCount": 87,
+            "slopeCount": 56,
+            "type": "Pocket"
+        }
+    ],
+    "slopeCert": 0,
+    "slopeCount": 0,
+    "slopeHolds": []
+}
